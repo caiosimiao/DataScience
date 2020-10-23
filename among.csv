@@ -1,0 +1,8 @@
+AddressGO,Version,Name,Address,Bytes,Opcode,HEX,Relsutado
+71202E7C,9.9,PlayerControl,.dll+212E7C,A1-845AD971,mov_eax[71D95A84],.dll+00DA5A84,00000000
+6EE9C75C,9.22,PlayerControl,.dll+88C75C,A1-1089A76F,mov_eax[6FA78910],.dll+01468910,11A78A50
+5D0B3C6C,10.22,GLHCHLEDNBA,.dll+623C6C,A1-70BBED5D,mov_eax[5DEDBB70],.dll+0144BB70,0892E4F0
+[],10.8,IHFJHCCJLKB,[],[],[],[],[]
+
+
+
