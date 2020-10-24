@@ -1,5 +1,5 @@
 Name,Version,Address,HEX
-PlayerControl,[9.9],71D95A84,.dll+00DA5A84
-IHFJHCCJLKB,[10.9],6FAA8E14,.dll+01228E14
-GLHCHLEDNBA,[10.22],6FA7BB70,.dll+0144BB70
-PlayerControl,[9.22],6FA78910,.dll+01468910
+PlayerControl,[9.9s],71D95A84,GameAssembly.dll+00DA5A84
+PlayerControl,[9.22s],6FA78910,GameAssembly.dll+01468910
+IHFJHCCJLKB,[10.8i],6FAA8E14,GameAssembly.dll+01228E14
+GLHCHLEDNBA,[10.22s],6FA7BB70,GameAssembly.dll+0144BB70
