@@ -2,7 +2,7 @@ Name,Connections1,Connections2
 Admin,Cafeteria,O2
 Cafeteria,Admin,O2
 Electrical,MedBay,Security
-Lower,Engine,Reactor(S)
+Lower Engine,Reactor(S), --
 MedBay,Electrical, Security
 Navigation(N),Weapons, --
 Navigation(S),Shields, --
