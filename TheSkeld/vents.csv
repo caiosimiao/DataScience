@@ -11,5 +11,5 @@ Reactor(N),Upper Engine, --
 Reactor(S),Lower Engine, --
 Security,Electrical,MedBay
 Shields,Navigation(S), --
-Upper,Engine,Reactor(N)
+Upper Engine,Reactor(N), --
 Weapons,Navigation(N), --
