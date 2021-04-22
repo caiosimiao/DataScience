@@ -1,7 +1,0 @@
-Name, Type, Locations, Severity
-View, Admin Table, Monitor Admin, N/A
-Check, Security, Cameras Monitor Security, N/A
-Fix Communications, Sabotage, Fix Sabotage	Communications,	Major
-Fix Lights,	Fix Sabotage,	Electrical,	Major
-Fix O2, Depletion Fix Sabotage,	Admin, O2 Fatal
-Fix Reactor, Meltdown Fix Sabotage Reactor(N), Reactor(S),	Fatal
